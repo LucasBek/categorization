@@ -1,4 +1,4 @@
-# categorization
+# Categorization
 Given a directory with files, distribute them into folders based on their category.
 
 ## Usage 
